@@ -9,7 +9,7 @@ render()
 		return(
 		<div className="amap">
 		<div className="menu">
-		<Header/>
+		<Header tagLine="Des bons legumes"/>
 		</div>
 		<Order/>
 		<Inventory/>
